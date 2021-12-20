@@ -1,4 +1,5 @@
 # Iris Analysis
+![](blue-iris-flowers.jpg)
 Example dataset for cleaning and machine learning
 
 ## Statisticall Analysis
